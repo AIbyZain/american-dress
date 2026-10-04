@@ -1,0 +1,11 @@
+{
+ "storeName": "American Dress House",
+ "currency": "PKR",
+ "currencyLocale": "en-PK",
+ "shippingFlatFee": 350,
+ "freeShippingThreshold": 25000,
+ "announcement": "Free delivery across Pakistan on orders over Rs 25,000",
+ "contactEmail": "",
+ "contactPhone": "051 5522031",
+ "address": "Barkat Plaza, Shop No 14–17, Bank Road, Saddar, Rawalpindi 46000, Pakistan"
+}

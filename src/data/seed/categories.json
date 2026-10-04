@@ -1,0 +1,66 @@
+[
+ {
+  "id": "6680d04a-9caa-5d71-b2bf-55efdaec3b67",
+  "slug": "sherwanis",
+  "name": "Sherwanis",
+  "description": "Hand-finished sherwanis for the groom and the wedding party.",
+  "image": null,
+  "sortOrder": 0
+ },
+ {
+  "id": "c54c05e4-0693-530e-9072-5e1f158d1ba1",
+  "slug": "prince-coats",
+  "name": "Prince Coats",
+  "description": "Structured prince coats with a softer, modern line.",
+  "image": null,
+  "sortOrder": 1
+ },
+ {
+  "id": "fe2fc8e4-67fb-5d20-a8ed-dc4c1f5dc458",
+  "slug": "suits",
+  "name": "Suits",
+  "description": "Two- and three-piece suits cut for everyday formality.",
+  "image": null,
+  "sortOrder": 2
+ },
+ {
+  "id": "4a19be2d-c85c-50ba-8f2b-d7808833f6d8",
+  "slug": "tuxedos",
+  "name": "Tuxedos",
+  "description": "Evening tailoring for receptions and black-tie events.",
+  "image": null,
+  "sortOrder": 3
+ },
+ {
+  "id": "5dc966d8-a0af-56df-a1e5-012a8744965f",
+  "slug": "waistcoats",
+  "name": "Waistcoats",
+  "description": "Waistcoats to layer over kurtas, shirts and suits.",
+  "image": null,
+  "sortOrder": 4
+ },
+ {
+  "id": "92090716-e04d-5ead-801b-c9ee5d37ad75",
+  "slug": "kurta-shalwar",
+  "name": "Kurta Shalwar",
+  "description": "Kurta shalwar in cotton, wash-and-wear and raw silk.",
+  "image": null,
+  "sortOrder": 5
+ },
+ {
+  "id": "330acdf6-17d6-5d3a-8802-1efe2986da38",
+  "slug": "shirts",
+  "name": "Shirts",
+  "description": "Dress shirts with clean collars and proper cuffs.",
+  "image": null,
+  "sortOrder": 6
+ },
+ {
+  "id": "f49ec698-9bfa-5072-a6d9-040cc1b0c820",
+  "slug": "accessories",
+  "name": "Accessories",
+  "description": "Ties, pocket squares and wedding accessories.",
+  "image": null,
+  "sortOrder": 7
+ }
+]

@@ -1,0 +1,1739 @@
+[
+ {
+  "id": "77eb90cb-87bc-56ab-b84a-3047f2e50a21",
+  "slug": "maroon-velvet-zardozi-sherwani",
+  "name": "Maroon Velvet Zardozi Sherwani",
+  "description": "Deep maroon velvet worked with gold scrollwork across the body, a raised medallion at the chest and an embroidered band collar. Made for the baraat, where it holds its shape through a long evening.",
+  "details": [
+   "Crushed velvet shell with satin lining",
+   "Hand-guided zardozi and dabka embroidery",
+   "Embroidered band collar and matching buttons",
+   "Pair with an ivory churidar and kulla"
+  ],
+  "price": 85000,
+  "compareAtPrice": null,
+  "categoryId": "6680d04a-9caa-5d71-b2bf-55efdaec3b67",
+  "collections": [
+   "wedding-edit",
+   "festive-edit"
+  ],
+  "colors": [
+   {
+    "name": "Maroon",
+    "hex": "#5B1A22"
+   }
+  ],
+  "sizes": [
+   "38",
+   "40",
+   "42",
+   "44",
+   "46"
+  ],
+  "variants": [
+   {
+    "id": "dd031112-bc52-5adc-8402-450998ddd772",
+    "size": "38",
+    "color": "Maroon",
+    "sku": "ADH-MAROONVEL-MAR-38",
+    "stock": 2,
+    "priceOverride": null
+   },
+   {
+    "id": "0d5670a2-b912-5515-9cb6-bfd5c494901a",
+    "size": "40",
+    "color": "Maroon",
+    "sku": "ADH-MAROONVEL-MAR-40",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "3c10585c-190a-5ce5-b41e-f21208135502",
+    "size": "42",
+    "color": "Maroon",
+    "sku": "ADH-MAROONVEL-MAR-42",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "ac906d68-ab28-52ad-9848-b8b9a9d0c453",
+    "size": "44",
+    "color": "Maroon",
+    "sku": "ADH-MAROONVEL-MAR-44",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "cbbfc454-5806-5a19-b109-8724f0375821",
+    "size": "46",
+    "color": "Maroon",
+    "sku": "ADH-MAROONVEL-MAR-46",
+    "stock": 1,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "/images/maroon-velvet-sherwani.jpg",
+    "alt": "Maroon velvet sherwani with gold zardozi scrollwork and embroidered collar"
+   }
+  ],
+  "isFeatured": true,
+  "isBestseller": true,
+  "isNew": false,
+  "popularity": 98,
+  "status": "active",
+  "createdAt": "2026-01-10T10:00:00.000Z"
+ },
+ {
+  "id": "ddffd663-19b8-5e5c-83d3-ed08d6bfc862",
+  "slug": "ivory-jamawar-sherwani",
+  "name": "Ivory Jamawar Sherwani with Ruby Motif",
+  "description": "Ivory jamawar with a tonal floral weave, finished with a single ruby-stone motif bordered in gold beadwork. Quiet from across the room, detailed up close.",
+  "details": [
+   "Jamawar weave with tonal floral pattern",
+   "Stone and bead motif, hand set",
+   "Full lining with inner pocket",
+   "Made-to-measure alterations available in store"
+  ],
+  "price": 95000,
+  "compareAtPrice": null,
+  "categoryId": "6680d04a-9caa-5d71-b2bf-55efdaec3b67",
+  "collections": [
+   "wedding-edit"
+  ],
+  "colors": [
+   {
+    "name": "Ivory",
+    "hex": "#EDE6D6"
+   }
+  ],
+  "sizes": [
+   "38",
+   "40",
+   "42",
+   "44",
+   "46"
+  ],
+  "variants": [
+   {
+    "id": "d932ff94-328c-5a95-8fc3-cd1edade27f8",
+    "size": "38",
+    "color": "Ivory",
+    "sku": "ADH-IVORYJAMA-IVO-38",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "79955562-6065-5977-8179-b6d79b3bf36d",
+    "size": "40",
+    "color": "Ivory",
+    "sku": "ADH-IVORYJAMA-IVO-40",
+    "stock": 2,
+    "priceOverride": null
+   },
+   {
+    "id": "f05c06dc-23e9-54a1-afb4-84723b1a4b08",
+    "size": "42",
+    "color": "Ivory",
+    "sku": "ADH-IVORYJAMA-IVO-42",
+    "stock": 0,
+    "priceOverride": null
+   },
+   {
+    "id": "674d4263-ddcd-58de-ac17-029e1f625098",
+    "size": "44",
+    "color": "Ivory",
+    "sku": "ADH-IVORYJAMA-IVO-44",
+    "stock": 2,
+    "priceOverride": null
+   },
+   {
+    "id": "65a1c646-a84f-534b-9045-c37b8d059a39",
+    "size": "46",
+    "color": "Ivory",
+    "sku": "ADH-IVORYJAMA-IVO-46",
+    "stock": 1,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "/images/ivory-jamawar-detail.jpg",
+    "alt": "Ivory jamawar fabric with a ruby and gold embroidered motif"
+   }
+  ],
+  "isFeatured": true,
+  "isBestseller": false,
+  "isNew": true,
+  "popularity": 92,
+  "status": "active",
+  "createdAt": "2026-02-11T10:00:00.000Z"
+ },
+ {
+  "id": "fc25ae1a-6b10-5289-96ef-8283f6d21b37",
+  "slug": "grey-check-two-piece-suit",
+  "name": "Grey Prince of Wales Check Suit",
+  "description": "A soft-shouldered two-piece in taupe-grey Prince of Wales check with a faint blue overcheck. Wear it with a white shirt and knit tie for the office, or open-collared for dinner.",
+  "details": [
+   "Wool-blend check cloth",
+   "Two-button single-breasted jacket",
+   "Notch lapel, flap pockets",
+   "Flat-front trousers with extended waistband"
+  ],
+  "price": 38500,
+  "compareAtPrice": null,
+  "categoryId": "fe2fc8e4-67fb-5d20-a8ed-dc4c1f5dc458",
+  "collections": [
+   "formal-tailoring"
+  ],
+  "colors": [
+   {
+    "name": "Taupe Grey",
+    "hex": "#8A8378"
+   }
+  ],
+  "sizes": [
+   "36",
+   "38",
+   "40",
+   "42",
+   "44",
+   "46"
+  ],
+  "variants": [
+   {
+    "id": "7d8b6ba6-50e1-57dc-b20d-601e3713d466",
+    "size": "36",
+    "color": "Taupe Grey",
+    "sku": "ADH-GREYCHECK-TAU-36",
+    "stock": 6,
+    "priceOverride": null
+   },
+   {
+    "id": "8e3a34d4-8918-5802-91dd-9f05e9fa4f89",
+    "size": "38",
+    "color": "Taupe Grey",
+    "sku": "ADH-GREYCHECK-TAU-38",
+    "stock": 11,
+    "priceOverride": null
+   },
+   {
+    "id": "b54f8c3c-2b72-5ecf-bd3a-efccd58423b1",
+    "size": "40",
+    "color": "Taupe Grey",
+    "sku": "ADH-GREYCHECK-TAU-40",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "9d8294a9-02db-5f2b-bfc7-2c2fb109fb10",
+    "size": "42",
+    "color": "Taupe Grey",
+    "sku": "ADH-GREYCHECK-TAU-42",
+    "stock": 10,
+    "priceOverride": null
+   },
+   {
+    "id": "0c235326-e02b-5896-a6e6-2633493e8927",
+    "size": "44",
+    "color": "Taupe Grey",
+    "sku": "ADH-GREYCHECK-TAU-44",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "79814e39-da2f-5000-a650-13791a893108",
+    "size": "46",
+    "color": "Taupe Grey",
+    "sku": "ADH-GREYCHECK-TAU-46",
+    "stock": 9,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "/images/grey-check-suit.jpg",
+    "alt": "Grey Prince of Wales check suit worn with white shirt and navy knit tie"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": true,
+  "isNew": false,
+  "popularity": 90,
+  "status": "active",
+  "createdAt": "2026-03-12T10:00:00.000Z"
+ },
+ {
+  "id": "99a50e0e-7003-54af-8bd8-aac619939049",
+  "slug": "houndstooth-three-piece-suit",
+  "name": "Houndstooth Three-Piece Suit",
+  "description": "A micro-houndstooth jacket paired with a double-breasted waistcoat. The waistcoat works on its own over a white shirt once the jacket comes off.",
+  "details": [
+   "Micro-houndstooth weave",
+   "Double-breasted six-button waistcoat",
+   "Peak lapel jacket with pocket square welt",
+   "Supplied with contrast black trousers"
+  ],
+  "price": 46000,
+  "compareAtPrice": null,
+  "categoryId": "fe2fc8e4-67fb-5d20-a8ed-dc4c1f5dc458",
+  "collections": [
+   "formal-tailoring",
+   "wedding-edit"
+  ],
+  "colors": [
+   {
+    "name": "Dove Grey",
+    "hex": "#B7B7B2"
+   }
+  ],
+  "sizes": [
+   "38",
+   "40",
+   "42",
+   "44",
+   "46"
+  ],
+  "variants": [
+   {
+    "id": "bc56c2a5-c3ae-57e5-a288-b76f4dee64d4",
+    "size": "38",
+    "color": "Dove Grey",
+    "sku": "ADH-HOUNDSTOOT-DOV-38",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "d3fa9064-fd0c-50dc-843a-b2345ea122d8",
+    "size": "40",
+    "color": "Dove Grey",
+    "sku": "ADH-HOUNDSTOOT-DOV-40",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "6edc35d5-793d-5418-91c2-3a2579cd5e50",
+    "size": "42",
+    "color": "Dove Grey",
+    "sku": "ADH-HOUNDSTOOT-DOV-42",
+    "stock": 8,
+    "priceOverride": null
+   },
+   {
+    "id": "b575e8b8-bc30-5cd6-9bf8-cb48aaf97df0",
+    "size": "44",
+    "color": "Dove Grey",
+    "sku": "ADH-HOUNDSTOOT-DOV-44",
+    "stock": 13,
+    "priceOverride": null
+   },
+   {
+    "id": "1ded65db-5a00-5ef3-82b2-faca217248d2",
+    "size": "46",
+    "color": "Dove Grey",
+    "sku": "ADH-HOUNDSTOOT-DOV-46",
+    "stock": 7,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "/images/houndstooth-three-piece.jpg",
+    "alt": "Grey houndstooth jacket with double-breasted waistcoat and polka-dot tie"
+   }
+  ],
+  "isFeatured": true,
+  "isBestseller": true,
+  "isNew": false,
+  "popularity": 94,
+  "status": "active",
+  "createdAt": "2026-04-13T10:00:00.000Z"
+ },
+ {
+  "id": "9680d4d1-971c-594e-afdb-4a47bdf45cd0",
+  "slug": "midnight-navy-two-piece-suit",
+  "name": "Midnight Navy Two-Piece Suit",
+  "description": "The suit most wardrobes start with: midnight navy, two buttons, clean lines. Easy to dress up for a mehndi or down for the office.",
+  "details": [
+   "Lightweight suiting cloth",
+   "Half-canvas construction",
+   "Working cuff buttons",
+   "Trousers with side adjusters"
+  ],
+  "price": 36000,
+  "compareAtPrice": null,
+  "categoryId": "fe2fc8e4-67fb-5d20-a8ed-dc4c1f5dc458",
+  "collections": [
+   "formal-tailoring"
+  ],
+  "colors": [
+   {
+    "name": "Navy",
+    "hex": "#1F2A44"
+   },
+   {
+    "name": "Charcoal",
+    "hex": "#36383B"
+   }
+  ],
+  "sizes": [
+   "38",
+   "40",
+   "42",
+   "44",
+   "46"
+  ],
+  "variants": [
+   {
+    "id": "28b5cbc6-eba8-5eb9-a141-299969456e54",
+    "size": "38",
+    "color": "Navy",
+    "sku": "ADH-MIDNIGHTN-NAV-38",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "f01cadf8-f58e-5c37-b867-61244031ee38",
+    "size": "40",
+    "color": "Navy",
+    "sku": "ADH-MIDNIGHTN-NAV-40",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "8834a107-35f7-5835-b5e9-fb0020b93962",
+    "size": "42",
+    "color": "Navy",
+    "sku": "ADH-MIDNIGHTN-NAV-42",
+    "stock": 8,
+    "priceOverride": null
+   },
+   {
+    "id": "957e2987-0aab-5014-837e-d9eda3629ef5",
+    "size": "44",
+    "color": "Navy",
+    "sku": "ADH-MIDNIGHTN-NAV-44",
+    "stock": 13,
+    "priceOverride": null
+   },
+   {
+    "id": "24d4a256-d39a-5719-941b-4519eceb54c9",
+    "size": "46",
+    "color": "Navy",
+    "sku": "ADH-MIDNIGHTN-NAV-46",
+    "stock": 7,
+    "priceOverride": null
+   },
+   {
+    "id": "badc95e6-da93-5a9b-aa37-fd8f5895612c",
+    "size": "38",
+    "color": "Charcoal",
+    "sku": "ADH-MIDNIGHTN-CHA-38",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "ec2f45bd-6db5-5732-931f-4d32b52c3b93",
+    "size": "40",
+    "color": "Charcoal",
+    "sku": "ADH-MIDNIGHTN-CHA-40",
+    "stock": 10,
+    "priceOverride": null
+   },
+   {
+    "id": "a4acb060-e1b0-5c5e-aac6-526a19408ade",
+    "size": "42",
+    "color": "Charcoal",
+    "sku": "ADH-MIDNIGHTN-CHA-42",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "642e2776-c38c-533a-a98a-d746cffe6b3b",
+    "size": "44",
+    "color": "Charcoal",
+    "sku": "ADH-MIDNIGHTN-CHA-44",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "803bc695-0f98-5b82-aa37-0001fdd3f248",
+    "size": "46",
+    "color": "Charcoal",
+    "sku": "ADH-MIDNIGHTN-CHA-46",
+    "stock": 3,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Man in a dark navy suit adjusting his shirt cuff"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": true,
+  "isNew": false,
+  "popularity": 88,
+  "status": "active",
+  "createdAt": "2026-05-14T10:00:00.000Z"
+ },
+ {
+  "id": "18f65b96-090f-5e74-bf14-82f37e20ada8",
+  "slug": "charcoal-slim-fit-suit",
+  "name": "Charcoal Slim-Fit Suit",
+  "description": "A narrower cut in solid charcoal with slightly shorter jacket length and tapered trousers.",
+  "details": [
+   "Slim fit through chest and waist",
+   "Two-button jacket, notch lapel",
+   "Tapered trousers",
+   "Fully lined"
+  ],
+  "price": 34500,
+  "compareAtPrice": null,
+  "categoryId": "fe2fc8e4-67fb-5d20-a8ed-dc4c1f5dc458",
+  "collections": [
+   "formal-tailoring"
+  ],
+  "colors": [
+   {
+    "name": "Charcoal",
+    "hex": "#36383B"
+   }
+  ],
+  "sizes": [
+   "36",
+   "38",
+   "40",
+   "42",
+   "44"
+  ],
+  "variants": [
+   {
+    "id": "37880d09-cc77-5831-97ad-88ff1adfebac",
+    "size": "36",
+    "color": "Charcoal",
+    "sku": "ADH-CHARCOALS-CHA-36",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "318d89bd-156b-5734-99d1-14913bff142b",
+    "size": "38",
+    "color": "Charcoal",
+    "sku": "ADH-CHARCOALS-CHA-38",
+    "stock": 8,
+    "priceOverride": null
+   },
+   {
+    "id": "66a6f639-3259-5981-a9e1-255ad4a486f0",
+    "size": "40",
+    "color": "Charcoal",
+    "sku": "ADH-CHARCOALS-CHA-40",
+    "stock": 13,
+    "priceOverride": null
+   },
+   {
+    "id": "43f066f0-b9ca-584f-abc6-a12eb58c8004",
+    "size": "42",
+    "color": "Charcoal",
+    "sku": "ADH-CHARCOALS-CHA-42",
+    "stock": 7,
+    "priceOverride": null
+   },
+   {
+    "id": "4321cf15-6171-5a36-91b5-77d0c1db4fd9",
+    "size": "44",
+    "color": "Charcoal",
+    "sku": "ADH-CHARCOALS-CHA-44",
+    "stock": 12,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Charcoal suit jacket on a man in a studio"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": false,
+  "isNew": true,
+  "popularity": 70,
+  "status": "active",
+  "createdAt": "2026-06-15T10:00:00.000Z"
+ },
+ {
+  "id": "f88bb95e-d0b6-50e7-8ffb-31d9e96f96b7",
+  "slug": "black-peak-lapel-tuxedo",
+  "name": "Black Peak-Lapel Tuxedo",
+  "description": "Black tuxedo with satin-faced peak lapels and a single button. For walima receptions and formal dinners.",
+  "details": [
+   "Satin-faced peak lapels",
+   "Covered single button",
+   "Satin side stripe on trousers",
+   "Pairs with a wing or turn-down collar shirt"
+  ],
+  "price": 52000,
+  "compareAtPrice": null,
+  "categoryId": "4a19be2d-c85c-50ba-8f2b-d7808833f6d8",
+  "collections": [
+   "wedding-edit"
+  ],
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "sizes": [
+   "38",
+   "40",
+   "42",
+   "44",
+   "46"
+  ],
+  "variants": [
+   {
+    "id": "9c2cc125-988f-5d54-8f94-d465a9d71b51",
+    "size": "38",
+    "color": "Black",
+    "sku": "ADH-BLACKPEAK-BLA-38",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "b99f90af-d9ee-5420-b900-a55e15723b5b",
+    "size": "40",
+    "color": "Black",
+    "sku": "ADH-BLACKPEAK-BLA-40",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "4125c436-626f-5be9-823e-cba40bd639c8",
+    "size": "42",
+    "color": "Black",
+    "sku": "ADH-BLACKPEAK-BLA-42",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "49e8bfc1-291c-5454-9617-7ca25e768ab0",
+    "size": "44",
+    "color": "Black",
+    "sku": "ADH-BLACKPEAK-BLA-44",
+    "stock": 8,
+    "priceOverride": null
+   },
+   {
+    "id": "60bbacdd-6895-5f71-9435-74ba8513a184",
+    "size": "46",
+    "color": "Black",
+    "sku": "ADH-BLACKPEAK-BLA-46",
+    "stock": 13,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Man in a black tuxedo with bow tie"
+   }
+  ],
+  "isFeatured": true,
+  "isBestseller": false,
+  "isNew": false,
+  "popularity": 80,
+  "status": "active",
+  "createdAt": "2026-07-16T10:00:00.000Z"
+ },
+ {
+  "id": "491edb31-2500-5a48-842a-3372b42a7718",
+  "slug": "ivory-dinner-jacket",
+  "name": "Ivory Dinner Jacket",
+  "description": "An ivory dinner jacket with a black shawl collar. Wear with black trousers for summer receptions.",
+  "details": [
+   "Shawl collar with black facing",
+   "Single-button closure",
+   "Breathable lining",
+   "Black trousers sold separately"
+  ],
+  "price": 48000,
+  "compareAtPrice": null,
+  "categoryId": "4a19be2d-c85c-50ba-8f2b-d7808833f6d8",
+  "collections": [
+   "wedding-edit"
+  ],
+  "colors": [
+   {
+    "name": "Ivory",
+    "hex": "#EDE6D6"
+   }
+  ],
+  "sizes": [
+   "38",
+   "40",
+   "42",
+   "44",
+   "46"
+  ],
+  "variants": [
+   {
+    "id": "3cc95d14-2de7-58c1-950e-e5636f557f29",
+    "size": "38",
+    "color": "Ivory",
+    "sku": "ADH-IVORYDINN-IVO-38",
+    "stock": 1,
+    "priceOverride": null
+   },
+   {
+    "id": "a8b54b14-1a92-5d30-9f99-6fa3cfd8424a",
+    "size": "40",
+    "color": "Ivory",
+    "sku": "ADH-IVORYDINN-IVO-40",
+    "stock": 0,
+    "priceOverride": null
+   },
+   {
+    "id": "ea8a6ec4-b3d2-5a62-9db9-9bacb3ddfa4d",
+    "size": "42",
+    "color": "Ivory",
+    "sku": "ADH-IVORYDINN-IVO-42",
+    "stock": 2,
+    "priceOverride": null
+   },
+   {
+    "id": "12562829-8d60-5e85-9f94-81bc19a0e2a4",
+    "size": "44",
+    "color": "Ivory",
+    "sku": "ADH-IVORYDINN-IVO-44",
+    "stock": 0,
+    "priceOverride": null
+   },
+   {
+    "id": "14b910ec-bf85-51b6-9466-2ebe5eabd69e",
+    "size": "46",
+    "color": "Ivory",
+    "sku": "ADH-IVORYDINN-IVO-46",
+    "stock": 1,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Man in a light dinner jacket"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": false,
+  "isNew": true,
+  "popularity": 62,
+  "status": "active",
+  "createdAt": "2026-08-17T10:00:00.000Z"
+ },
+ {
+  "id": "60302031-a619-5f61-9199-20d57ece25c3",
+  "slug": "champagne-prince-coat",
+  "name": "Champagne Prince Coat",
+  "description": "A champagne prince coat with a tonal embroidered collar and placket. Lighter than a sherwani, more formal than a suit.",
+  "details": [
+   "Tonal thread embroidery at collar and placket",
+   "Concealed front closure",
+   "Side vents for ease",
+   "Pair with a kurta or straight trouser"
+  ],
+  "price": 58000,
+  "compareAtPrice": null,
+  "categoryId": "c54c05e4-0693-530e-9072-5e1f158d1ba1",
+  "collections": [
+   "wedding-edit",
+   "festive-edit"
+  ],
+  "colors": [
+   {
+    "name": "Champagne",
+    "hex": "#CDB991"
+   }
+  ],
+  "sizes": [
+   "38",
+   "40",
+   "42",
+   "44",
+   "46"
+  ],
+  "variants": [
+   {
+    "id": "0b2463ea-96e4-5cc9-a5ef-c4b884d39fa5",
+    "size": "38",
+    "color": "Champagne",
+    "sku": "ADH-CHAMPAGNE-CHA-38",
+    "stock": 13,
+    "priceOverride": null
+   },
+   {
+    "id": "7bffb70d-0ddb-550d-b1e2-0ef58c4a86d1",
+    "size": "40",
+    "color": "Champagne",
+    "sku": "ADH-CHAMPAGNE-CHA-40",
+    "stock": 7,
+    "priceOverride": null
+   },
+   {
+    "id": "d99c3cf1-0f2b-573a-919e-730bec86abcf",
+    "size": "42",
+    "color": "Champagne",
+    "sku": "ADH-CHAMPAGNE-CHA-42",
+    "stock": 12,
+    "priceOverride": null
+   },
+   {
+    "id": "0dee9e9e-9cc0-5443-b1d2-4d73e11c3556",
+    "size": "44",
+    "color": "Champagne",
+    "sku": "ADH-CHAMPAGNE-CHA-44",
+    "stock": 6,
+    "priceOverride": null
+   },
+   {
+    "id": "be9bdc67-36f0-5cc1-9d03-68d7016d6f27",
+    "size": "46",
+    "color": "Champagne",
+    "sku": "ADH-CHAMPAGNE-CHA-46",
+    "stock": 11,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Tailored coats hanging in a menswear store"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": true,
+  "isNew": false,
+  "popularity": 84,
+  "status": "active",
+  "createdAt": "2026-09-18T10:00:00.000Z"
+ },
+ {
+  "id": "d6e051bb-21af-5734-8321-9e18dffc2eee",
+  "slug": "black-embroidered-prince-coat",
+  "name": "Black Embroidered Prince Coat",
+  "description": "Black prince coat with fine silver-grey embroidery tracing the collar and cuffs.",
+  "details": [
+   "Fine thread embroidery",
+   "Mandarin collar",
+   "Fully lined",
+   "Matching trousers available"
+  ],
+  "price": 62000,
+  "compareAtPrice": 68000,
+  "categoryId": "c54c05e4-0693-530e-9072-5e1f158d1ba1",
+  "collections": [
+   "festive-edit"
+  ],
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "sizes": [
+   "38",
+   "40",
+   "42",
+   "44",
+   "46"
+  ],
+  "variants": [
+   {
+    "id": "ac0fe86b-d434-524a-a1d2-540d88f59ba3",
+    "size": "38",
+    "color": "Black",
+    "sku": "ADH-BLACKEMBR-BLA-38",
+    "stock": 10,
+    "priceOverride": null
+   },
+   {
+    "id": "d5304bcb-5926-53f5-be55-96bb46243cf0",
+    "size": "40",
+    "color": "Black",
+    "sku": "ADH-BLACKEMBR-BLA-40",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "83976327-99d6-5336-ba78-df7206edaa1f",
+    "size": "42",
+    "color": "Black",
+    "sku": "ADH-BLACKEMBR-BLA-42",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "ec1ff846-6a4e-5033-9d58-0810cbb42f78",
+    "size": "44",
+    "color": "Black",
+    "sku": "ADH-BLACKEMBR-BLA-44",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "0863b737-9a51-56e7-874b-085cddc0aea9",
+    "size": "46",
+    "color": "Black",
+    "sku": "ADH-BLACKEMBR-BLA-46",
+    "stock": 8,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1505022610485-0249ba5b3675?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Man in a dark tailored coat"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": false,
+  "isNew": false,
+  "popularity": 66,
+  "status": "active",
+  "createdAt": "2026-01-10T10:00:00.000Z"
+ },
+ {
+  "id": "9caeac4e-149e-56f3-b1e3-f91f3de264bf",
+  "slug": "emerald-velvet-waistcoat",
+  "name": "Emerald Velvet Waistcoat",
+  "description": "A velvet waistcoat with a short band collar, made to go over a kurta for mehndi and Eid.",
+  "details": [
+   "Velvet front, satin back",
+   "Band collar",
+   "Five-button front",
+   "Two welt pockets"
+  ],
+  "price": 14500,
+  "compareAtPrice": null,
+  "categoryId": "5dc966d8-a0af-56df-a1e5-012a8744965f",
+  "collections": [
+   "festive-edit"
+  ],
+  "colors": [
+   {
+    "name": "Emerald",
+    "hex": "#1F4D3A"
+   },
+   {
+    "name": "Maroon",
+    "hex": "#5B1A22"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "variants": [
+   {
+    "id": "f48d2f6d-075a-5069-a349-20d2d1558dff",
+    "size": "S",
+    "color": "Emerald",
+    "sku": "ADH-EMERALDVE-EME-S",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "a37f9909-ddbe-5f2f-848d-58dbec79a4a3",
+    "size": "M",
+    "color": "Emerald",
+    "sku": "ADH-EMERALDVE-EME-M",
+    "stock": 10,
+    "priceOverride": null
+   },
+   {
+    "id": "4b4633a2-b1a4-575b-b9c7-a490d3d0a211",
+    "size": "L",
+    "color": "Emerald",
+    "sku": "ADH-EMERALDVE-EME-L",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "a14bb710-3624-58da-9a72-01f3b485e2d1",
+    "size": "XL",
+    "color": "Emerald",
+    "sku": "ADH-EMERALDVE-EME-XL",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "43296df0-3d7b-5d5c-8c71-74c4a8f71e35",
+    "size": "XXL",
+    "color": "Emerald",
+    "sku": "ADH-EMERALDVE-EME-XXL",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "e456f8de-626e-54a0-b1f4-44b72b86402d",
+    "size": "S",
+    "color": "Maroon",
+    "sku": "ADH-EMERALDVE-MAR-S",
+    "stock": 12,
+    "priceOverride": null
+   },
+   {
+    "id": "aac1d427-b512-56b4-b8f0-54a48a3b1110",
+    "size": "M",
+    "color": "Maroon",
+    "sku": "ADH-EMERALDVE-MAR-M",
+    "stock": 6,
+    "priceOverride": null
+   },
+   {
+    "id": "b5b30b8a-f5a0-584c-b54f-56ec3c9f721d",
+    "size": "L",
+    "color": "Maroon",
+    "sku": "ADH-EMERALDVE-MAR-L",
+    "stock": 11,
+    "priceOverride": null
+   },
+   {
+    "id": "b5e521c0-5299-559b-81a3-ad4e75d22490",
+    "size": "XL",
+    "color": "Maroon",
+    "sku": "ADH-EMERALDVE-MAR-XL",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "bfae845d-28e1-5f07-be55-1d82b71abf76",
+    "size": "XXL",
+    "color": "Maroon",
+    "sku": "ADH-EMERALDVE-MAR-XXL",
+    "stock": 10,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1598808503746-f34c53b9323e?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Velvet waistcoat worn over a light kurta"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": true,
+  "isNew": true,
+  "popularity": 86,
+  "status": "active",
+  "createdAt": "2026-02-11T10:00:00.000Z"
+ },
+ {
+  "id": "75cba440-cf3a-57c5-a251-0ca0cd4159cd",
+  "slug": "textured-grey-waistcoat",
+  "name": "Textured Grey Waistcoat",
+  "description": "A textured grey waistcoat that works over shirts or kurtas, with or without a jacket.",
+  "details": [
+   "Textured weave",
+   "Adjustable back strap",
+   "Five-button front",
+   "Notch-free V neckline"
+  ],
+  "price": 11500,
+  "compareAtPrice": null,
+  "categoryId": "5dc966d8-a0af-56df-a1e5-012a8744965f",
+  "collections": [
+   "formal-tailoring"
+  ],
+  "colors": [
+   {
+    "name": "Grey",
+    "hex": "#8D8D8A"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "variants": [
+   {
+    "id": "33905b74-8539-55bf-933c-422760e7ae22",
+    "size": "S",
+    "color": "Grey",
+    "sku": "ADH-TEXTUREDG-GRE-S",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "7986fbe3-86d9-5df0-b1b5-ccfdcc2089cd",
+    "size": "M",
+    "color": "Grey",
+    "sku": "ADH-TEXTUREDG-GRE-M",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "de98ade8-5f0b-59f7-9d4d-173ecd2ab875",
+    "size": "L",
+    "color": "Grey",
+    "sku": "ADH-TEXTUREDG-GRE-L",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "305b5ca4-83de-5454-b56b-c91234921097",
+    "size": "XL",
+    "color": "Grey",
+    "sku": "ADH-TEXTUREDG-GRE-XL",
+    "stock": 8,
+    "priceOverride": null
+   },
+   {
+    "id": "7cf4b4fe-4aab-5d3e-81d0-0f976d6bf231",
+    "size": "XXL",
+    "color": "Grey",
+    "sku": "ADH-TEXTUREDG-GRE-XXL",
+    "stock": 13,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Grey textured waistcoat over a white shirt"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": false,
+  "isNew": false,
+  "popularity": 55,
+  "status": "active",
+  "createdAt": "2026-03-12T10:00:00.000Z"
+ },
+ {
+  "id": "703fbbf5-2ee6-5d82-9682-9105354b0c99",
+  "slug": "ivory-raw-silk-kurta-shalwar",
+  "name": "Ivory Raw Silk Kurta Shalwar",
+  "description": "Raw silk kurta with a self-embroidered placket, paired with a matching shalwar. A natural base for a waistcoat.",
+  "details": [
+   "Raw silk blend",
+   "Self-embroidered placket",
+   "Side pockets",
+   "Matching shalwar included"
+  ],
+  "price": 16500,
+  "compareAtPrice": null,
+  "categoryId": "92090716-e04d-5ead-801b-c9ee5d37ad75",
+  "collections": [
+   "festive-edit"
+  ],
+  "colors": [
+   {
+    "name": "Ivory",
+    "hex": "#EDE6D6"
+   },
+   {
+    "name": "Sand",
+    "hex": "#D6C6A8"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "variants": [
+   {
+    "id": "7a40e8d6-54c2-5027-95f9-cc669c1f169b",
+    "size": "S",
+    "color": "Ivory",
+    "sku": "ADH-IVORYRAW-IVO-S",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "0888df84-10d6-5e40-a961-b83cb0071346",
+    "size": "M",
+    "color": "Ivory",
+    "sku": "ADH-IVORYRAW-IVO-M",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "ba5798fc-1f29-56ff-856e-efa54f8742b7",
+    "size": "L",
+    "color": "Ivory",
+    "sku": "ADH-IVORYRAW-IVO-L",
+    "stock": 8,
+    "priceOverride": null
+   },
+   {
+    "id": "6fb78e45-204f-5814-98d3-44b0bf68d44f",
+    "size": "XL",
+    "color": "Ivory",
+    "sku": "ADH-IVORYRAW-IVO-XL",
+    "stock": 13,
+    "priceOverride": null
+   },
+   {
+    "id": "3444f851-45db-58e5-b150-61ed172f8ee4",
+    "size": "XXL",
+    "color": "Ivory",
+    "sku": "ADH-IVORYRAW-IVO-XXL",
+    "stock": 7,
+    "priceOverride": null
+   },
+   {
+    "id": "db20ac45-f91f-5bee-ab93-f7e36b4c5814",
+    "size": "S",
+    "color": "Sand",
+    "sku": "ADH-IVORYRAW-SAN-S",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "9c12d875-5703-5366-8f5e-a4b2f9ce81a1",
+    "size": "M",
+    "color": "Sand",
+    "sku": "ADH-IVORYRAW-SAN-M",
+    "stock": 10,
+    "priceOverride": null
+   },
+   {
+    "id": "79c48909-00dc-5d80-81f1-fc1e6aaa52a7",
+    "size": "L",
+    "color": "Sand",
+    "sku": "ADH-IVORYRAW-SAN-L",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "a68424da-ee88-5378-abd2-634b5c961492",
+    "size": "XL",
+    "color": "Sand",
+    "sku": "ADH-IVORYRAW-SAN-XL",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "2aed1877-ab85-5d1b-acf1-e470c9491d4b",
+    "size": "XXL",
+    "color": "Sand",
+    "sku": "ADH-IVORYRAW-SAN-XXL",
+    "stock": 3,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1622519407650-3df9883f76e5?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Man wearing a light-colored kurta"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": false,
+  "isNew": true,
+  "popularity": 75,
+  "status": "active",
+  "createdAt": "2026-04-13T10:00:00.000Z"
+ },
+ {
+  "id": "49573041-ee1a-58e3-ba79-66232a5b4fc7",
+  "slug": "black-cotton-kurta-shalwar",
+  "name": "Black Cotton Kurta Shalwar",
+  "description": "A crisp cotton kurta shalwar with a band collar and concealed placket. Everyday, Jummah, dinners.",
+  "details": [
+   "Combed cotton",
+   "Band collar, concealed placket",
+   "Side pockets",
+   "Matching shalwar included"
+  ],
+  "price": 9800,
+  "compareAtPrice": null,
+  "categoryId": "92090716-e04d-5ead-801b-c9ee5d37ad75",
+  "collections": [],
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#141414"
+   },
+   {
+    "name": "Navy",
+    "hex": "#1F2A44"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "variants": [
+   {
+    "id": "d66c4867-2705-542e-a602-fc1e5cbf3d3f",
+    "size": "S",
+    "color": "Black",
+    "sku": "ADH-BLACKCOTT-BLA-S",
+    "stock": 7,
+    "priceOverride": null
+   },
+   {
+    "id": "dbb5ec2f-92a1-5fe4-8713-67ebd33a9a8c",
+    "size": "M",
+    "color": "Black",
+    "sku": "ADH-BLACKCOTT-BLA-M",
+    "stock": 12,
+    "priceOverride": null
+   },
+   {
+    "id": "8367243d-8625-556c-b731-751159d035f5",
+    "size": "L",
+    "color": "Black",
+    "sku": "ADH-BLACKCOTT-BLA-L",
+    "stock": 6,
+    "priceOverride": null
+   },
+   {
+    "id": "419a27d7-7a8f-5a64-8e17-16ca07f7d2ac",
+    "size": "XL",
+    "color": "Black",
+    "sku": "ADH-BLACKCOTT-BLA-XL",
+    "stock": 11,
+    "priceOverride": null
+   },
+   {
+    "id": "cc9bd22a-a133-538e-a5d8-3d08bc96c7f8",
+    "size": "XXL",
+    "color": "Black",
+    "sku": "ADH-BLACKCOTT-BLA-XXL",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "0353ee5c-b00d-573f-b1b7-f7f447ad025b",
+    "size": "S",
+    "color": "Navy",
+    "sku": "ADH-BLACKCOTT-NAV-S",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "71601279-cc72-505a-845a-2bc26f0bf9a8",
+    "size": "M",
+    "color": "Navy",
+    "sku": "ADH-BLACKCOTT-NAV-M",
+    "stock": 8,
+    "priceOverride": null
+   },
+   {
+    "id": "a17dcea8-99ff-576f-9428-052a9303558c",
+    "size": "L",
+    "color": "Navy",
+    "sku": "ADH-BLACKCOTT-NAV-L",
+    "stock": 13,
+    "priceOverride": null
+   },
+   {
+    "id": "02844ae6-f7bd-5ceb-ae11-3e7a582b6715",
+    "size": "XL",
+    "color": "Navy",
+    "sku": "ADH-BLACKCOTT-NAV-XL",
+    "stock": 7,
+    "priceOverride": null
+   },
+   {
+    "id": "7a3667cf-4945-52b8-8df6-8b6621468879",
+    "size": "XXL",
+    "color": "Navy",
+    "sku": "ADH-BLACKCOTT-NAV-XXL",
+    "stock": 12,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Man in a dark kurta"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": true,
+  "isNew": false,
+  "popularity": 91,
+  "status": "active",
+  "createdAt": "2026-05-14T10:00:00.000Z"
+ },
+ {
+  "id": "eed0043c-7c92-5e1b-b87e-5b97f6330991",
+  "slug": "white-poplin-dress-shirt",
+  "name": "White Poplin Dress Shirt",
+  "description": "A two-ply cotton poplin shirt with a semi-spread collar and barrel cuffs. Sized by collar.",
+  "details": [
+   "Two-ply cotton poplin",
+   "Semi-spread collar with removable stays",
+   "Barrel cuffs",
+   "Sized by collar in inches"
+  ],
+  "price": 6500,
+  "compareAtPrice": null,
+  "categoryId": "330acdf6-17d6-5d3a-8802-1efe2986da38",
+  "collections": [
+   "formal-tailoring"
+  ],
+  "colors": [
+   {
+    "name": "White",
+    "hex": "#FAFAFA"
+   },
+   {
+    "name": "Sky Blue",
+    "hex": "#BFD3E6"
+   }
+  ],
+  "sizes": [
+   "15",
+   "15.5",
+   "16",
+   "16.5",
+   "17",
+   "17.5"
+  ],
+  "variants": [
+   {
+    "id": "4d7296a2-c1bd-53b7-8fce-ebb51f538944",
+    "size": "15",
+    "color": "White",
+    "sku": "ADH-WHITEPOPL-WHI-15",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "36f1d8c8-f402-53d2-a9e4-24cfea38c4a7",
+    "size": "15.5",
+    "color": "White",
+    "sku": "ADH-WHITEPOPL-WHI-155",
+    "stock": 10,
+    "priceOverride": null
+   },
+   {
+    "id": "498d3cc8-f560-55c7-961d-dc2748ca1d98",
+    "size": "16",
+    "color": "White",
+    "sku": "ADH-WHITEPOPL-WHI-16",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "3a3808c3-7526-5149-9642-e05b3cd67cc4",
+    "size": "16.5",
+    "color": "White",
+    "sku": "ADH-WHITEPOPL-WHI-165",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "a9c3f206-993d-55ce-b63d-eaab714a50e5",
+    "size": "17",
+    "color": "White",
+    "sku": "ADH-WHITEPOPL-WHI-17",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "be7e7cc4-c84b-54c0-a7b8-ac391f0fb256",
+    "size": "17.5",
+    "color": "White",
+    "sku": "ADH-WHITEPOPL-WHI-175",
+    "stock": 8,
+    "priceOverride": null
+   },
+   {
+    "id": "cb4fd88c-ad15-5cc3-982d-db8335ee4ca1",
+    "size": "15",
+    "color": "Sky Blue",
+    "sku": "ADH-WHITEPOPL-SKY-15",
+    "stock": 12,
+    "priceOverride": null
+   },
+   {
+    "id": "999ac10f-c64e-51b1-9461-63b465e50fd6",
+    "size": "15.5",
+    "color": "Sky Blue",
+    "sku": "ADH-WHITEPOPL-SKY-155",
+    "stock": 6,
+    "priceOverride": null
+   },
+   {
+    "id": "a7890b2b-58ac-5fc4-8c4b-399f5a5beceb",
+    "size": "16",
+    "color": "Sky Blue",
+    "sku": "ADH-WHITEPOPL-SKY-16",
+    "stock": 11,
+    "priceOverride": null
+   },
+   {
+    "id": "a3a3738b-3aad-500c-9304-d6dcea2d85c8",
+    "size": "16.5",
+    "color": "Sky Blue",
+    "sku": "ADH-WHITEPOPL-SKY-165",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "00a8fc12-12bd-5d36-8eed-ae2f4e1baa22",
+    "size": "17",
+    "color": "Sky Blue",
+    "sku": "ADH-WHITEPOPL-SKY-17",
+    "stock": 10,
+    "priceOverride": null
+   },
+   {
+    "id": "0bf3bf56-2a6c-55c8-9afe-e0bb9d2ccc61",
+    "size": "17.5",
+    "color": "Sky Blue",
+    "sku": "ADH-WHITEPOPL-SKY-175",
+    "stock": 4,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1603252109303-2751441dd157?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Folded white dress shirt"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": true,
+  "isNew": false,
+  "popularity": 82,
+  "status": "active",
+  "createdAt": "2026-06-15T10:00:00.000Z"
+ },
+ {
+  "id": "559e9ea0-5534-5b51-a7e1-4d8f9ae27d8a",
+  "slug": "navy-silk-knit-tie",
+  "name": "Navy Silk Knit Tie",
+  "description": "A square-end knit tie in silk. Holds a small knot and goes with check and plain suits alike.",
+  "details": [
+   "Silk knit",
+   "Square end",
+   "6 cm width",
+   "Unlined"
+  ],
+  "price": 3500,
+  "compareAtPrice": null,
+  "categoryId": "f49ec698-9bfa-5072-a6d9-040cc1b0c820",
+  "collections": [
+   "formal-tailoring"
+  ],
+  "colors": [
+   {
+    "name": "Navy",
+    "hex": "#1F2A44"
+   },
+   {
+    "name": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "sizes": [
+   "One Size"
+  ],
+  "variants": [
+   {
+    "id": "71c16b97-bf36-5d8f-a254-eab1427de39c",
+    "size": "One Size",
+    "color": "Navy",
+    "sku": "ADH-NAVYSILK-NAV-OneSize",
+    "stock": 12,
+    "priceOverride": null
+   },
+   {
+    "id": "4ff8d71a-76b9-55e1-beed-d80cf5f4533b",
+    "size": "One Size",
+    "color": "Black",
+    "sku": "ADH-NAVYSILK-BLA-OneSize",
+    "stock": 0,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1589756823695-278bc923f962?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Silk ties laid out in a row"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": false,
+  "isNew": false,
+  "popularity": 60,
+  "status": "active",
+  "createdAt": "2026-07-16T10:00:00.000Z"
+ },
+ {
+  "id": "015cbe95-3db4-5cef-a8da-273df48d789a",
+  "slug": "silk-pocket-square-set",
+  "name": "Silk Pocket Square Set",
+  "description": "Two silk pocket squares with hand-rolled edges, one plain, one patterned.",
+  "details": [
+   "Silk twill",
+   "Hand-rolled edges",
+   "33 x 33 cm",
+   "Set of two"
+  ],
+  "price": 2800,
+  "compareAtPrice": null,
+  "categoryId": "f49ec698-9bfa-5072-a6d9-040cc1b0c820",
+  "collections": [],
+  "colors": [
+   {
+    "name": "Ivory",
+    "hex": "#EDE6D6"
+   },
+   {
+    "name": "Champagne",
+    "hex": "#CDB991"
+   }
+  ],
+  "sizes": [
+   "One Size"
+  ],
+  "variants": [
+   {
+    "id": "ed2463d0-c0eb-5fbd-b654-6a52b6a5c908",
+    "size": "One Size",
+    "color": "Ivory",
+    "sku": "ADH-SILKPOCKE-IVO-OneSize",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "32b480d9-6c13-5979-b97c-6319d74834ff",
+    "size": "One Size",
+    "color": "Champagne",
+    "sku": "ADH-SILKPOCKE-CHA-OneSize",
+    "stock": 10,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Folded pocket square in a suit pocket"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": false,
+  "isNew": true,
+  "popularity": 48,
+  "status": "active",
+  "createdAt": "2026-08-17T10:00:00.000Z"
+ },
+ {
+  "id": "e658406f-b4bc-5297-90f9-c64003e50733",
+  "slug": "embroidered-groom-kulla",
+  "name": "Embroidered Groom Kulla",
+  "description": "A structured kulla with gold embroidery, sized to sit under a turban wrap. Matched to sherwani tones in store.",
+  "details": [
+   "Structured base",
+   "Gold thread embroidery",
+   "Sized by head circumference in inches",
+   "Turban wrap sold separately"
+  ],
+  "price": 12500,
+  "compareAtPrice": null,
+  "categoryId": "f49ec698-9bfa-5072-a6d9-040cc1b0c820",
+  "collections": [
+   "wedding-edit"
+  ],
+  "colors": [
+   {
+    "name": "Gold",
+    "hex": "#B79B74"
+   },
+   {
+    "name": "Ivory",
+    "hex": "#EDE6D6"
+   }
+  ],
+  "sizes": [
+   "21",
+   "22",
+   "23"
+  ],
+  "variants": [
+   {
+    "id": "c3d0dbf1-3338-501f-b9b5-79152a585af7",
+    "size": "21",
+    "color": "Gold",
+    "sku": "ADH-EMBROIDERE-GOL-21",
+    "stock": 4,
+    "priceOverride": null
+   },
+   {
+    "id": "5a01214b-d8e7-5bcd-95a4-c8be86a070c3",
+    "size": "22",
+    "color": "Gold",
+    "sku": "ADH-EMBROIDERE-GOL-22",
+    "stock": 9,
+    "priceOverride": null
+   },
+   {
+    "id": "66aa4f68-d2ea-54eb-a66c-a735ce2157d7",
+    "size": "23",
+    "color": "Gold",
+    "sku": "ADH-EMBROIDERE-GOL-23",
+    "stock": 3,
+    "priceOverride": null
+   },
+   {
+    "id": "57c9a445-1f0e-5713-92d0-c98b3119fff1",
+    "size": "21",
+    "color": "Ivory",
+    "sku": "ADH-EMBROIDERE-IVO-21",
+    "stock": 11,
+    "priceOverride": null
+   },
+   {
+    "id": "b70a180b-2f2c-5d12-bd1b-1aa1fef8d354",
+    "size": "22",
+    "color": "Ivory",
+    "sku": "ADH-EMBROIDERE-IVO-22",
+    "stock": 5,
+    "priceOverride": null
+   },
+   {
+    "id": "87281a70-883b-5d5d-a8b9-583c7ee66762",
+    "size": "23",
+    "color": "Ivory",
+    "sku": "ADH-EMBROIDERE-IVO-23",
+    "stock": 10,
+    "priceOverride": null
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Embroidered ceremonial headwear"
+   }
+  ],
+  "isFeatured": false,
+  "isBestseller": false,
+  "isNew": false,
+  "popularity": 58,
+  "status": "active",
+  "createdAt": "2026-09-18T10:00:00.000Z"
+ }
+]
