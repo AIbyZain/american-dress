@@ -49,7 +49,7 @@ export function AuthProvider({ children, initialUser }: { children: React.ReactN
   const mode = getDataMode();
   const router = useRouter();
   const [user, setUser] = useState<AppUser | null>(initialUser);
-  const [loading, setLoading] = useState(mode === "demo" || !initialUser);
+  const [loading, setLoading] = useState(!initialUser);
 
   useEffect(() => {
     if (mode === "demo") {

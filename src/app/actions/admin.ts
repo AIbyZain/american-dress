@@ -1,11 +1,12 @@
 "use server";
 
-import { revalidatePath } from "next/cache";
+import { revalidatePath, revalidateTag } from "next/cache";
 import { z } from "zod";
-import type { ActionResult, CustomerSummary, Order, OrderStatus, PaymentStatus } from "@/types";
+import type { ActionResult, CustomerSummary, Order, OrderStatus, PaymentStatus, Product } from "@/types";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
 import { AuthError, requireAdmin } from "@/lib/auth.server";
-import { ORDER_SELECT, mapOrder, type OrderRow } from "@/lib/supabase/mappers";
+import { ORDER_SELECT, PRODUCT_SELECT, mapOrder, mapProduct, type OrderRow, type ProductRow } from "@/lib/supabase/mappers";
+import { CATALOG_TAG } from "@/lib/cache-tags";
 import { errorMessage } from "@/lib/utils";
 
 const DEMO_MSG = "Supabase isn't configured. Admin changes are stored in this browser in demo mode.";
@@ -62,7 +63,18 @@ const productPayload = z.object({
 });
 
 function refresh() {
+  revalidateTag(CATALOG_TAG);
   revalidatePath("/", "layout");
+}
+
+/** Full catalogue including drafts, for the admin screens. */
+export async function adminListProductsAction(): Promise<ActionResult<Product[]>> {
+  return run(async () => {
+    const supabase = await adminClient();
+    const { data, error } = await supabase.from("products").select(PRODUCT_SELECT).order("created_at", { ascending: false });
+    if (error) throw error;
+    return ((data ?? []) as ProductRow[]).map(mapProduct);
+  });
 }
 
 export async function saveProductAction(input: unknown) {

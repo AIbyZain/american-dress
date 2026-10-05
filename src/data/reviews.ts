@@ -1,13 +1,11 @@
 /**
- * Customer reviews shown on the homepage.
- *
- * The entries below are DEMO CONTENT. They are not real reviews of American Dress House.
- * To show real Google reviews, copy them (with the reviewer's permission where needed)
- * into this list and set `source: "google"`. Demo entries are labelled on the page.
+ * Customer reviews shown on the homepage, copied from the store's Google Maps listing.
+ * `when` is the approximate month, worked out from Google's "x months ago" in October 2026.
+ * Leave `rating` out to hide stars for a review.
  */
 export interface Review {
   author: string;
-  rating: number;
+  rating?: number;
   text: string;
   when: string;
   source: "google" | "demo";
@@ -15,38 +13,21 @@ export interface Review {
 
 export const reviews: Review[] = [
   {
-    author: "Demo customer",
-    rating: 5,
-    text: "Staff helped me match a waistcoat to my kurta for my brother's mehndi and had the length adjusted the same week.",
-    when: "Sample",
-    source: "demo",
+    author: "Mudassir Ahmad",
+    text: "Totally unprofessional staff. I got suits stitched from you. The fitting is very poor. It's too tight from the back, the button placement is incorrect, and it wrinkles badly when worn. Despite clearly explaining these issues, they have not been properly corrected. This has been a very disappointing experience. Will not come again.",
+    when: "June 2026",
+    source: "google",
   },
   {
-    author: "Demo customer",
-    rating: 5,
-    text: "Tried several sherwanis before the baraat. The fit after alterations was exactly what I wanted.",
-    when: "Sample",
-    source: "demo",
+    author: "Sadiq Iqbal",
+    text: "Not satisfied at all. The coat has visible press marks and fabric damage that shouldn't be present in a new product. Looks worn and poorly maintained.",
+    when: "May 2026",
+    source: "google",
   },
   {
-    author: "Demo customer",
-    rating: 4,
-    text: "Good range of suits in different price points. Busy on weekends, so visit early.",
-    when: "Sample",
-    source: "demo",
-  },
-  {
-    author: "Demo customer",
-    rating: 5,
-    text: "Bought a navy suit and shirt for an interview. They took time to explain sizing.",
-    when: "Sample",
-    source: "demo",
-  },
-  {
-    author: "Demo customer",
-    rating: 4,
-    text: "Embroidery on the prince coat was neat and the colour matched the photos.",
-    when: "Sample",
-    source: "demo",
+    author: "Ismail Khan",
+    text: "I got my coat stitched from American Dress House, and the experience was very disappointing. The coat was poorly stitched, fitting was completely off, and despite explaining everything clearly, the final result was not worth the money at all. Their finishing, measurements, and overall workmanship need serious improvement. I trusted them with an important outfit, but unfortunately, they failed to deliver good quality. I hope they improve their service for future customers, but based on my experience, I cannot recommend them.",
+    when: "December 2025",
+    source: "google",
   },
 ];

@@ -51,7 +51,7 @@ function NavList({ onNavigate }: { onNavigate?: () => void }) {
 /** Demo-mode guard. With Supabase, the server layout has already verified the admin role. */
 export function AdminShell({ children }: { children: React.ReactNode }) {
   const { user, loading, signOut } = useAuth();
-  const { mode } = useStoreData();
+  const { mode, loadAdminCatalog } = useStoreData();
   const router = useRouter();
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
@@ -61,6 +61,11 @@ export function AdminShell({ children }: { children: React.ReactNode }) {
     if (!user) router.replace(`/admin/login?next=${encodeURIComponent(pathname)}`);
     else if (user.role !== "admin") router.replace("/admin/login?error=forbidden");
   }, [loading, user, router, pathname]);
+
+  const isAdmin = user?.role === "admin";
+  useEffect(() => {
+    if (isAdmin) void loadAdminCatalog();
+  }, [isAdmin, loadAdminCatalog]);
 
   if (loading || !user || user.role !== "admin") {
     return <div className="flex min-h-screen items-center justify-center bg-mist text-[14px] text-muted">Checking access…</div>;

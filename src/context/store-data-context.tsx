@@ -6,6 +6,7 @@ import type { ActionResult, Category, DataMode, Product, StoreSettings } from "@
 import { STORAGE_KEYS, clearDemoData, readLocal, writeLocal } from "@/lib/demo/storage";
 import { seedCategories, seedProducts, seedSettings } from "@/data/seed";
 import {
+  adminListProductsAction,
   deleteCategoryAction,
   deleteProductAction,
   saveCategoryAction,
@@ -35,6 +36,8 @@ interface StoreDataValue {
   consumeDemoStock(items: { productId: string; variantId: string; quantity: number }[]): void;
   saveSettings(s: StoreSettings): Promise<ActionResult>;
   resetDemoData(): void;
+  /** Admin only (Supabase): load every product including drafts. */
+  loadAdminCatalog(): Promise<void>;
 }
 
 const Ctx = createContext<StoreDataValue | null>(null);
@@ -54,6 +57,7 @@ export function StoreDataProvider({ initial, children }: { initial: Initial; chi
   const [categories, setCategories] = useState(initial.categories);
   const [settings, setSettings] = useState(initial.settings);
   const [hydrated, setHydrated] = useState(mode === "supabase");
+  const [adminCatalog, setAdminCatalog] = useState(false);
 
   // Demo mode: apply edits saved in this browser.
   useEffect(() => {
@@ -69,10 +73,19 @@ export function StoreDataProvider({ initial, children }: { initial: Initial; chi
   // Supabase mode: follow fresh server data after router.refresh().
   useEffect(() => {
     if (mode !== "supabase") return;
-    setProducts(initial.products);
+    if (!adminCatalog) setProducts(initial.products);
     setCategories(initial.categories);
     setSettings(initial.settings);
-  }, [mode, initial.products, initial.categories, initial.settings]);
+  }, [mode, adminCatalog, initial.products, initial.categories, initial.settings]);
+
+  const loadAdminCatalog = useCallback(async () => {
+    if (mode !== "supabase") return;
+    const r = await adminListProductsAction();
+    if (r.ok && r.data) {
+      setProducts(r.data);
+      setAdminCatalog(true);
+    }
+  }, [mode]);
 
   const persistCatalog = useCallback((p: Product[], c: Category[]) => {
     writeLocal(STORAGE_KEYS.catalog, { products: p, categories: c });
@@ -234,8 +247,9 @@ export function StoreDataProvider({ initial, children }: { initial: Initial; chi
       consumeDemoStock,
       saveSettings,
       resetDemoData,
+      loadAdminCatalog,
     };
-  }, [mode, hydrated, initial.error, products, categories, settings, saveProduct, deleteProduct, saveCategory, deleteCategory, setVariantStock, consumeDemoStock, saveSettings, resetDemoData]);
+  }, [mode, hydrated, initial.error, products, categories, settings, saveProduct, deleteProduct, saveCategory, deleteCategory, setVariantStock, consumeDemoStock, saveSettings, resetDemoData, loadAdminCatalog]);
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;
 }

@@ -11,7 +11,6 @@ import { useAuth } from "@/context/auth-context";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Field } from "@/components/ui/form-field";
-import { DEMO_ADMIN, DEMO_CUSTOMER } from "@/lib/demo/auth";
 
 function safeNext(next: string | null, fallback: string) {
   return next && next.startsWith("/") && !next.startsWith("//") ? next : fallback;
@@ -20,11 +19,10 @@ function safeNext(next: string | null, fallback: string) {
 export function LoginForm({ variant = "customer" }: { variant?: "customer" | "admin" }) {
   const router = useRouter();
   const params = useSearchParams();
-  const { signIn, signOut, mode } = useAuth();
+  const { signIn, signOut } = useAuth();
   const [error, setError] = useState<string | null>(params.get("error") === "forbidden" ? "This account doesn't have admin access." : null);
-  const demoCreds = variant === "admin" ? DEMO_ADMIN : DEMO_CUSTOMER;
 
-  const { register, handleSubmit, setValue, formState } = useForm<LoginInput>({
+  const { register, handleSubmit, formState } = useForm<LoginInput>({
     resolver: zodResolver(loginSchema),
     defaultValues: { email: "", password: "" },
   });
@@ -52,26 +50,6 @@ export function LoginForm({ variant = "customer" }: { variant?: "customer" | "ad
 
   return (
     <div className="space-y-6">
-      {mode === "demo" ? (
-        <div className="border border-gold/40 bg-ivory p-4 text-[13px] leading-relaxed">
-          <p className="font-medium">Demo mode</p>
-          <p className="mt-1 text-ink/80">
-            Accounts are stored in this browser only. Use the demo {variant} account:
-            <br />
-            {demoCreds.email} / {demoCreds.password}
-          </p>
-          <button
-            type="button"
-            className="mt-2 text-[13px] underline underline-offset-4"
-            onClick={() => {
-              setValue("email", demoCreds.email);
-              setValue("password", demoCreds.password);
-            }}
-          >
-            Fill in demo details
-          </button>
-        </div>
-      ) : null}
       <form onSubmit={handleSubmit(onSubmit)} noValidate className="space-y-5">
         <Field id="email" label="Email" error={e.email?.message}>
           <Input id="email" type="email" autoComplete="email" aria-invalid={!!e.email} {...register("email")} />

@@ -1,6 +1,8 @@
 "use server";
 
 import { z } from "zod";
+import { revalidateTag } from "next/cache";
+import { CATALOG_TAG } from "@/lib/cache-tags";
 import type { ActionResult, Address, Order } from "@/types";
 import { checkoutSchema, type CheckoutInput } from "@/lib/validation";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
@@ -65,6 +67,7 @@ export async function placeOrderAction(input: {
   });
   if (payment.status === "failed") return { ok: false, error: payment.message ?? "Payment could not be started." };
 
+  revalidateTag(CATALOG_TAG);
   return { ok: true, data: { orderId } };
 }
 

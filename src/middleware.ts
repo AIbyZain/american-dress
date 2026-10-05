@@ -27,5 +27,6 @@ export async function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|favicon.ico|images/|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)"],
+  // Only protected routes pay for a session check; public store pages skip middleware entirely.
+  matcher: ["/account/:path*", "/checkout/:path*", "/admin/:path*", "/auth/:path*"],
 };

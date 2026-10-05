@@ -8,6 +8,8 @@ type CookieToSet = { name: string; value: string; options: CookieOptions };
 /**
  * Server Supabase client bound to the request cookies, so queries run as the signed-in user
  * and Row Level Security applies. Returns null in demo mode.
+ * Use only for user-specific data (account, checkout, admin). Public catalogue reads use
+ * the cached client in lib/services/store.server.ts so store pages stay fast.
  */
 export function createSupabaseServerClient(): SupabaseClient | null {
   if (!isSupabaseConfigured()) return null;

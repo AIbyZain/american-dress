@@ -3,7 +3,6 @@ import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { siteConfig } from "@/config/site";
 import { getStoreData } from "@/lib/services/store.server";
-import { getServerUser } from "@/lib/auth.server";
 import { AppProviders } from "@/components/providers/app-providers";
 
 const serif = Playfair_Display({ subsets: ["latin"], variable: "--font-serif", display: "swap" });
@@ -32,11 +31,12 @@ export const metadata: Metadata = {
 export const viewport: Viewport = { themeColor: "#171717", width: "device-width", initialScale: 1 };
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
-  const [data, user] = await Promise.all([getStoreData(), getServerUser()]);
+  // The signed-in user is loaded in the browser, so store pages can be cached and served instantly.
+  const data = await getStoreData();
   return (
     <html lang="en" className={`${serif.variable} ${sans.variable}`}>
       <body className="min-h-screen font-sans antialiased">
-        <AppProviders data={data} user={user}>
+        <AppProviders data={data} user={null}>
           {children}
         </AppProviders>
       </body>
